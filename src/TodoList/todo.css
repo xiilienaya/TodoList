@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#top{
+    margin: 0 auto;
+    width:500px;
+    height:50px;
+    background: orchid;
+}
+#title{
+    line-height:50px;
+    color: white;
+    font-size:30px;
+}
+#getValue{
+    float: right;
+    height:20px;
+    margin-top:12px;
+    width:300px;
+    border-radius:5px;
+    border:2px solid purple;
+}
+#main{
+    margin: 0 auto;
+    height:500px;
+    width:500px;
+    background: rgb(148, 100, 196);
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    line-height:40px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    color: white;
+    width:100%;
+    background-color: rgb(80, 32, 143);
+    border-radius:5px;
+    margin-bottom:5px;
+}
+button{
+    float: right;
+    width:50px;
+    border:1px solid rgb(255, 146, 250);
+    border-radius:5px;
+    background: rgb(187, 83, 228);
+    
+}
+#del-ul li{
+    background-color: rebeccapurple;
+    width:498px;
+    border : 1px solid rgb(58, 11, 68);
+}
+#sp{
+    float: right;
+    text-align: center;
+    line-height:30px;
+    width:150px;
+    border-radius:10px;
+    height:30px;
+    background-color: rgb(252, 135, 207);
+}
